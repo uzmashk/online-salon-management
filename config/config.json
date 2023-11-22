@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "cci",
+    "password": "cci",
+    "database": "online_salon_db",
+    "port": "5534",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "cci",
+    "password": "cci",
+    "database": "online_salon_db",
+    "port": "5534",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cci",
+    "password": "cci",
+    "database": "online_salon_db",
+    "port": "5534",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
